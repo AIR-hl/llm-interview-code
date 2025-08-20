@@ -2,7 +2,7 @@
 
 **LLM面试常见手撕代码合集**
 
-> ps: 本人仅遇到过MHA, RoPE, RMSNorm, DPO
+> ps: 本人目前几十场面试仅遇到过 `MHA`, `RoPE`, `RMSNorm`, `BPE`。如有帮助请点个star⭐️~
 
 ## 项目结构
 
