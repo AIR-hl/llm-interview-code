@@ -63,7 +63,7 @@
 <td>RMS归一化</td>
 </tr>
 <tr>
-<td rowspan="4"><strong>Functional</strong></td>
+<td rowspan="5"><strong>Functional</strong></td>
 <td><a href="./Functional/activation_fun.ipynb">activation_fun.ipynb</a></td>
 <td>激活函数</td>
 </tr>
