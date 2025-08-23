@@ -76,7 +76,7 @@
 <td>InfoNCE损失</td>
 </tr>
 <tr>
-<td><a href="./Functional/quantify.ipynb">quantify.ipynb</a></td>
+<td><a href="./Functional/quantize.ipynb">quantify.ipynb</a></td>
 <td>量化</td>
 </tr>
 <tr>
