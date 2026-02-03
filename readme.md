@@ -4,6 +4,9 @@
 
 > ps: 本人目前几十场面试仅遇到过 `MHA`, `RoPE`, `RMSNorm`, `BPE`, `InfoNCE`, `DPO`。如有帮助请点个star⭐️~
 
+---
+我去，这么多✨，感谢大家～
+
 ## 项目结构
 
 <table>
