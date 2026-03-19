@@ -2,10 +2,10 @@
 
 **LLM面试常见手撕代码合集**
 
-> ps: 本人目前几十场面试仅遇到过 `MHA`, `RoPE`, `RMSNorm`, `BPE`, `InfoNCE`, `DPO`。如有帮助请点个star⭐️~
+> ps: 本人目前几十场面试仅遇到过 `MHA`, `RoPE`, `RMSNorm`, `BPE`, `InfoNCE`, `DPO`, `工具调用解析`。如有帮助请点个star⭐️~
 
 ---
-我去，这么多✨，感谢大家～
+我去，这么多⭐️，感谢大家～
 
 ## 项目结构
 
@@ -66,7 +66,7 @@
 <td>RMS归一化</td>
 </tr>
 <tr>
-<td rowspan="5"><strong>Functional</strong></td>
+<td rowspan="7"><strong>Functional</strong></td>
 <td><a href="./Functional/activation_fun.ipynb">activation_fun.ipynb</a></td>
 <td>激活函数</td>
 </tr>
@@ -79,12 +79,20 @@
 <td>InfoNCE损失</td>
 </tr>
 <tr>
-<td><a href="./Functional/quantize.ipynb">quantify.ipynb</a></td>
+<td><a href="./Functional/quantize.ipynb">quantize.ipynb</a></td>
 <td>量化</td>
 </tr>
 <tr>
-<td><a href="./Functional/SFT.ipynb">SFT.ipynb</a></td>
+<td><a href="./Functional/sft.ipynb">sft.ipynb</a></td>
 <td>SFT损失</td>
+</tr>
+<tr>
+<td><a href="./Functional/sample.ipynb">sample.ipynb</a></td>
+<td>采样方法</td>
+</tr>
+<tr>
+<td><a href="./Functional/tool_function.ipynb">tool_function.ipynb</a></td>
+<td>Tool Calling 流式解析</td>
 </tr>
 <tr>
 <td rowspan="5"><strong>RL</strong></td>
@@ -96,16 +104,16 @@
 <td>GRPO损失</td>
 </tr>
 <tr>
+<td><a href="./RL/DAPO.ipynb">DAPO.ipynb</a></td>
+<td>DAPO损失</td>
+</tr>
+<tr>
 <td><a href="./RL/GSPO.ipynb">GSPO.ipynb</a></td>
 <td>GSPO损失</td>
 </tr>
 <tr>
 <td><a href="./RL/KL.ipynb">KL.ipynb</a></td>
 <td>KL散度</td>
-</tr>
-<tr>
-<td><a href="./RL/PPO.ipynb">PPO.ipynb</a></td>
-<td>PPO损失</td>
 </tr>
 </tbody>
 </table>
