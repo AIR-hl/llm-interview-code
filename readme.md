@@ -28,6 +28,10 @@
 <td>分组查询注意力 (Grouped Query Attention)</td>
 </tr>
 <tr>
+<td><a href="./Attention/MLA.ipynb">MLA.ipynb</a></td>
+<td>多头潜注意力（Multi-Head Latent Attention）</td>
+</tr>
+<tr>
 <td><a href="./Attention/MHA_kvcache.ipynb">MHA_kvcache.ipynb</a></td>
 <td>带KV cache的注意力</td>
 </tr>
